@@ -1,4 +1,4 @@
-# 💬 Chat Application – Full Stack Web Application (MERN + Socket.io)
+# 💬 Chat Application – Full Stack Web Application (MERN + Socket.io) PRODIGY_FS_04
 
 A complete **Full-Stack Real-Time Chat Application** developed using **MongoDB, Express.js, React.js, Node.js**, and **Socket.io**, with secure authentication, real-time messaging, and email integration.
 
